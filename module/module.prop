@@ -1,0 +1,6 @@
+id=8bitdo_xpad_fix
+name=8BitDo 2.4G Dongle Fix (xpad)
+version=v1.0
+versionCode=1
+author=collins011884-ux
+description=Makes 8BitDo 2.4G wireless dongles send input on Android kernels whose xpad driver never sends the Xbox 360 LED init packet.
